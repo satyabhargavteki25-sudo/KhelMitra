@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KhelMitra</string>
+    <string name="title_activity_main">KhelMitra</string>
+    <string name="package_name">com.khelmitra.app</string>
+    <string name="custom_url_scheme">com.khelmitra.app</string>
+</resources>

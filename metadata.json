@@ -1,0 +1,6 @@
+{
+  "name": "KhelMitra",
+  "description": "AI Sports Coaching app that analyzes posture and elbow angles in real-time with Hindi voice feedback.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
